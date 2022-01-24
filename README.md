@@ -3,7 +3,7 @@
 - I’m currently learning ... many things including advanced AI, Advanced database engineering in PostgreSQL, algorithms and data structures II, discrete mathematics II, advanced Java programming, advanced C++ as I near the end of my scholastic undergrad journey in Computer Science and Math
 ---- To graduate the program I will be required to write a "live" programm (application) that will ustilize everything I have learbed incuding AI, Data Structures and Algorthms, Databases, Computer Language of my choice: Java 1 and 2, C++, or Python, and more. This will cuminate in realprgram that must be packaged and delivered, have training materials, and will be required to have software engineering princiles applied including a design document that must include UML along with a mock website that will showcase thehighlights of my project. 
 - ’m looking to collaborate on ... anything comuter sceince related in programming C++ or Java application that piques my interest 
-- How to reach me ... reach me through my website at qudrisphere.com, LinkedIn, Facebook, or email at harrisonrogers.two@gmail.com
+- How to reach me ... reach me through my website at bayesiandistillery.com, LinkedIn, Facebook, or email at harrisonrogers.two@gmail.com
 
 
 <!---
