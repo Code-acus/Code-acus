@@ -3,10 +3,8 @@
 - 
 - As of March 2023 I am a college graduate with a B.Sc. degree in Computer Science and Math
 - 
-- I wil lbe attending Graduate School - Fall Term 2023 Studying for a Master of Science in Computer Science with a focus on AI, computational abstraction and theory, machine learning, computational lingusitics and more...
+- I will be attending Graduate School - Fall Term 2023 Studying for a Master of Science in Computer Science with a focus on AI, computational abstraction and theory, machine learning, computational lingusitics and more...and I will also be employed as the software developer I am today
 -
-- In the mean time I work as developer, devops engineer, and IT sercurity analyst ...
-- 
 - I remain a perennial learner while constantly improving my skills sets in the latest technologies and concepts in the software developement, machine learning, data base technology, BIG data, and Algorithms and Data Structures.
 - 
 - I’m looking to collaborate on ... anything comuter sceince related in programming C++ or Java application that piques my interest...
