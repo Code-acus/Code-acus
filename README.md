@@ -2,6 +2,8 @@
 - I’m interested in ... all sorts of things. 
 - 
 - As of March 2023 I am a college graduate with a B.Sc. degree in Computer Science and Math
+-
+- I am employed by SkyZone working mostly in Systems Development but once the Company is in position I will be going more toward .NET and Machine Learning at SkyZone.
 - 
 - I will be attending Graduate School - Fall Term 2023 Studying for a Master of Science in Computer Science with a focus on AI, computational abstraction and theory, machine learning, computational lingusitics and more...
 -
